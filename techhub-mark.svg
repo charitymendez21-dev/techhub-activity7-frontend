@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>TECHHUB</title>
+  <rect width="64" height="64" rx="16" fill="#3657c8"/>
+  <path d="M22 17h20v6H35v24h-6V23h-7z" fill="#fff"/>
+  <path d="M40 17h6v12h8v6h-8v12h-6z" fill="#9db2ff"/>
+</svg>
